@@ -9,8 +9,8 @@ My core strength lies in leveraging a deep understanding of both technology and 
 - 🏢 Currently working as a Freelance Backend Developer at **EgisTech**.
 - 🎓 Graduated with B.S. in **Computer Science & Statistics** from KNOU and B.A. in **Economics** from Incheon Nat'l Univ.
 - 🌱 I’m currently focused on building **full-stack applications with AI integration**.
-- 📫 How to reach me: **ehddbs132@gmail.com**
-- 📝 My Tech Blog: [velog.io/@ehddbs132](https://velog.io/@ehddbs132)
+- 📫 How to reach me: **joeylife94@gmail.com**
+- 📝 My Tech Blog: 예정
 
 <br/>
 <br/>
