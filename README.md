@@ -64,7 +64,7 @@ My core strength lies in leveraging a deep understanding of both technology and 
 
 ## 🚀 Personal Projects
 
-### [Papyr.us - A Modern Team Collaboration Wiki Platform](https://github.com/joeylife94/papyr.us)
+### [Papyr-us - A Modern Team Collaboration Wiki Platform](https://github.com/joeylife94/papyr-us)
 A modern team collaboration wiki platform built with React and Express.js. It enhances team knowledge management and productivity through a powerful markdown editor, team-specific workspaces, and AI-powered features.
 
 **Key Features:**
@@ -74,6 +74,21 @@ A modern team collaboration wiki platform built with React and Express.js. It en
 - ⚡ Real-time Collaboration foundation with Socket.IO
 
 **Tech Stack:** `React`, `TypeScript`, `Express.js`, `Drizzle ORM`, `PostgreSQL`, `Socket.IO`, `OpenAI SDK`, `Docker`, `Vitest`, `Playwright`
+
+<br/>
+
+### [보람안전 (boram_safety) - 안전용품 판매 웹사이트](https://github.com/joeylife94/boram_safety)
+FastAPI와 Next.js 14를 기반으로 개발한 풀스택 안전용품 홍보 프로젝트입니다.
+
+**주요 특징**
+- **백엔드:** FastAPI와 SQLAlchemy를 사용하여 RESTful API를 구축하고, PostgreSQL 데이터베이스와 연동하여 254개 제품 및 11개 카테고리 데이터를 관리합니다.
+- **프론트엔드:** Next.js 14의 App Router, TypeScript, Tailwind CSS를 사용하여 반응형 UI와 최적화된 사용자 경험을 제공합니다.
+- **이미지 관리:** 초기 단계에서는 프론트엔드 로컬 시스템을 통해 이미지를 관리하며, 향후 클라우드 스토리지 연동을 고려하고 있습니다.
+
+**기술 스택**
+- **Frontend:** `Next.js 14`, `TypeScript`, `Tailwind CSS`
+- **Backend:** `Python`, `FastAPI`, `SQLAlchemy`
+- **Database:** `PostgreSQL`
 
 <br/>
 
